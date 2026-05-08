@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* @import "C:/Users/isaac/Documents/Dev/web-emprendePlus/node_modules/preline/variants.css"; */
+html,
+body,
+#root {
+  @apply min-h-screen bg-neutral-900 text-white;
+}

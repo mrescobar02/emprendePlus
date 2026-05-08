@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlmodel
+openai
+python-dotenv
+pydantic
+jose
+requests
+python-jose[cryptography]
+faker
+python-multipart
